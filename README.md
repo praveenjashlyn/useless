@@ -12,32 +12,33 @@
 - Team Lead: Praveen J - College of Engineering Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
+Simply a useless login page and listed some of the useless events.
 
 ### The Problem (that doesn't exist)
-An Online Notice board for every USELESS and USEFULL events happening in CET.
+An Online Notice board for every USELESS events happening in CET.
 
 ### The Solution (that nobody asked for)
 Creating a website for the stuff.(later can be build up to a application)
-Here the part is users can watch interesting features about events and register for the same.
+Here the interesting part is users can knew features about events and register for the same.
 Users can also upload new event details.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - HTML,CSS, JAVASCRIPT
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Github for hosting
+- chatgpt(not entirely)
+
 
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+  github site.
 
 # Run
-[commands]
+click the link.. https://praveenjashlyn.github.io/useless/
+
 
 ### Project Documentation
 For Software:

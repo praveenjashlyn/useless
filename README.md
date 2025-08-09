@@ -44,7 +44,9 @@ click the link.. https://praveenjashlyn.github.io/useless/
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="3188" height="1202" alt="frame (3)" src="https://drive.google.com/file/d/1RCog7osLh8Es1AnAC_fFsnSC1vYU17IF/view?usp=sharing" />
+<img width="1440" height="900" alt="Screenshot 2025-08-09 at 5 13 12 PM" src="https://github.com/user-attachments/assets/71ca67bc-327a-4b07-8f16-3028b778eae3" />
+
+<img width="3188" height="1202" alt="frame (3)" src="" />
 
 (Collected sample data using google sheets API)
 The event details are updated to the webpage using google sheets api..

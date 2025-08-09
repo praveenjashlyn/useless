@@ -44,14 +44,16 @@ click the link.. https://praveenjashlyn.github.io/useless/
 For Software:
 
 # Screenshots (Add at least 3)
-<a href="Screenshot 2025-08-09 at 5.13.12 PM.png"></a>
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+
 (Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+(Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot 2025-08-09 at 5.12.07 PM.png](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams

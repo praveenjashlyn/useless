@@ -48,6 +48,7 @@ function handleCredentialResponse(response) {
       // Show user name on screen
       document.getElementById("status").innerText = 
         `Signed in as ${data.name} (${data.email})`;
+        showProtectedContent();
     }
 
 

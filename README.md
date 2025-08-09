@@ -44,7 +44,8 @@ click the link.. https://praveenjashlyn.github.io/useless/
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<a href=Screenshot 2025-08-09 at 5.13.12 PM.png></a>
+(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)

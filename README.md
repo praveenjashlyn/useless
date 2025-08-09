@@ -44,55 +44,21 @@ click the link.. https://praveenjashlyn.github.io/useless/
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="https://drive.google.com/file/d/1RCog7osLh8Es1AnAC_fFsnSC1vYU17IF/view?usp=sharing" />
 
-(Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+(Collected sample data using google sheets API)
+The event details are updated to the webpage using google sheets api..
 
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-(Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="3188" height="1202" alt="frame (3)" src="https://drive.google.com/file/d/1m5H8cwcF53cTdZC7WgG6eWEy7htmxFp6/view?usp=sharing" />
+USELESS login page 
+verification Purpose. Used google identity Services
 
-![Screenshot 2025-08-09 at 5.12.07 PM.png](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="3188" height="1202" alt="frame (3)" src="https://drive.google.com/file/d/1k72g3El9G6-rOwJ4UIaF4qPNauRuWEZr/view?usp=drive_link" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+the main page
+event listings
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
